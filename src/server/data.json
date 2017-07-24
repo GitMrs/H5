@@ -1,0 +1,108 @@
+{
+	"msg":"success",
+	"question":[
+	            {
+	            	"id":1,
+	            	"scort":20,
+	            	"img":"./src/assets/1_1.png",
+	            	"name":"1.What is uncle Wang making?",
+	            	"result":{
+	            	        	"list":["A、a bike","B、a tank","C、a plike","D、UFO"],
+	            	        	"right":0
+	            	}  
+	            },
+	            {
+	            	"id":2,
+	            	"scort":20,
+	            	"img":"./src/assets/2_1.png",
+	            	"name":"2.What is the man of this parrent?",
+	            	"result":{
+        	        	"list":["A、Polly","B、Jolin","C、Holly","D、Potter"],
+        	        	"right":0
+	            		}
+	            },
+	            {
+	            	"id":3,
+	            	"scort":20,
+	            	"img":"./src/assets/3_2.png",
+	            	"name":"3.Between what time will the conference call happen?",
+	            	"result":{
+        	        	"list":["A、22:00-22:02","B、20:20-20:00","C、13:58-14:02","D、2:02-2:20"],
+        	        	"right":0
+	            		}
+	            },
+	            {
+	            	"id":4,
+	            	"scort":20,
+	            	"img":"./src/assets/4_2.png",
+	            	"name":"4.Who is Jim is sister?",
+	            	"result":{
+        	        	"list":["A、Kate Whitte","B、Kate Green","C、Kate Black","D、Katy Perry"],
+        	        	"right":0
+	            		}
+	            },
+	            {
+	            	"id":5,
+	            	"scort":20,
+	            	"img":"./src/assets/5_2.png",
+	            	"name":"5.How old is this lody",
+	            	"result":{
+        	        	"list":["A、89","B、73","C、45","D、Ah~it is a secret!"],
+        	        	"right":0
+	            		}
+	            },
+	            {
+	            	"id":6,
+	            	"scort":20,
+	            	"img":"./src/assets/6_2.png",
+	            	"name":"6.What will the boy answer?",
+	            	"result":{
+        	        	"list":["A、You son of bitch","B、Yes,I am fine","C、Are you single?","D、Can i have a free Mi bard?"],
+        	        	"right":0
+	            		}
+	            },
+	            {
+	            	"id":7,
+	            	"scort":20,
+	            	"img":"./src/assets/7_2.png",
+	            	"name":"7.Which statement is true?",
+	            	"result":{
+        	        	"list":["A、Polly shits everywhere","B、Jim is always late",
+        	        	        "C、The twins are British","D、Polly belongs to Tom"],
+        	        	"right":0
+	            		}
+	            },
+	            {
+	            	"id":8,
+	            	"scort":20,
+	            	"img":"./src/assets/8_2.png",
+	            	"name":"8.Which colored textbook below does not exist?",
+	            	"result":{
+        	        	"list":["A、Red","B、Green","C、Blue","D、Orange"],
+        	        	"right":0
+	            		}
+	            },
+	            {
+	            	"id":9,
+	            	"scort":20,
+	            	"img":"./src/assets/9_2.png",
+	            	"name":"9.How many conversations did LiLei and HanMeimei have?",
+	            	"result":{
+        	        	"list":["A、3","B、6","C、10","D、0"],
+        	        	"right":0
+	            		}
+	            },
+	            {
+	            	"id":10,
+	            	"scort":20,
+	            	"img":"./src/assets/10_2.png",
+	            	"name":"10. lily and Lucy, who is older?",
+	            	"result":{
+        	        	"list":["A、Lucy is 5 minutes older","B、Lucy is 10 minutes older",
+        	        	        "C、Lucy is 25 minutes older?","D、Lucy is 15 minutes older"],
+        	        	"right":0
+	            		}
+	            }
+	 ]
+
+}
